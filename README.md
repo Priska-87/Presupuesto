@@ -1,3 +1,35 @@
+Este proyecto Presupuesto permite ingresar un valor inicial y agregar gastos que irán apareciendo a medida que se descuentan del presupuesto inicial.
+Si nuestros gastos superan el 50% del presupuesto se pintará el restante de amarillo, si se gasta más de un 75% se pintará el restante de rojo avisando al usuario que está apunto de gastar todo el valor total ingresado. El formulario cuenta con validaciones para que cada ítem sea ingresado correctamente.
+Para este proyecto se utilizó React y el Framework Skeleton.
+
+link: https://superb-conkies-404061.netlify.app/
+
+![image](https://user-images.githubusercontent.com/89424062/212493331-4fc0b131-aa96-4a32-833d-d0cfba55bcca.png)
+![image](https://user-images.githubusercontent.com/89424062/212493397-01418f02-0765-4075-a888-b893a7691f3f.png)
+![image](https://user-images.githubusercontent.com/89424062/212493475-9f6eb3d1-e9fe-4cb5-a045-5ade9f4461f3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
